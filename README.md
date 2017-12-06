@@ -62,3 +62,9 @@ Term frequency vector in downweighted based on inverse document frequency
 #### 1.3.4 Retrieving similar documents using nearest neighbor search
 
 * Distance metric
+
+#### 1.3.5 k-means: A clustering algorithm
+
+0. Initialize cluster centers
+1. Assign observations to closest cluster center
+2. Revise cluster centers as mean of assigned observations
