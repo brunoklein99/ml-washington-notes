@@ -58,3 +58,7 @@ Term frequency vector in downweighted based on inverse document frequency
 <p align="center">
   <img src="https://i.imgur.com/AOP3T8C.png" />
 </p>
+
+#### 1.3.4 Retrieving similar documents using nearest neighbor search
+
+* Distance metric
