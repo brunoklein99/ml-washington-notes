@@ -12,7 +12,7 @@
 
 * Bag of words
 
-### Measuring similarity
+### 1.3.1 Measuring similarity
 
 <p align="center">
   <img src="https://i.imgur.com/mhdAUqH.png" />
@@ -31,3 +31,10 @@ Solution: Normalize vectors
 <p align="center">
   <img src="https://i.imgur.com/KBarfgg.png" />
 </p>
+
+### 1.3.2 Prioritizing important words with tf-idf
+
+A document about sports might have some common words, such as: "the", "player", "field", "goal"
+But it might also have rare words which are important "describers" of the article, for instance: "futbol", "Messi".
+
+Solution: Emphasize words appearing in few docs. Equivalently, discount word W based on number of documents containing word W
