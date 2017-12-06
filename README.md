@@ -38,3 +38,23 @@ A document about sports might have some common words, such as: "the", "player", 
 But it might also have rare words which are important "describers" of the article, for instance: "futbol", "Messi".
 
 Solution: Emphasize words appearing in few docs. Equivalently, discount word W based on number of documents containing word W
+
+Important words:
+
+Appears frequently in document -> Common locally
+
+Appears rarely in corpus -> Rare globally
+
+#### 1.3.3 Calculating tf-idf vectors (Term frequency - inverse document frequency)
+
+Term frequency vector in downweighted based on inverse document frequency
+
+* Inverse document frequency (globally)
+
+<p align="center">
+<a href="https://www.codecogs.com/eqnedit.php?latex=\dpi{150}&space;\large&space;log(\frac{docs}{1&space;&plus;&space;docs\_using\_word})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\dpi{150}&space;\large&space;log(\frac{docs}{1&space;&plus;&space;docs\_using\_word})" title="\large log(\frac{docs}{1 + docs\_using\_word})" /></a>
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/AOP3T8C.png" />
+</p>
