@@ -104,5 +104,9 @@ User someone purchased "diapers".
   <img src="https://i.imgur.com/j4BNvzO.png" />
 </p>
 
+### 1.3.5 The matrix completion task
 
+<p align="center">
+  <img src="https://i.imgur.com/jHayZss.png" />
+</p>
 
