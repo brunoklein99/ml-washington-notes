@@ -98,5 +98,11 @@ User someone purchased "diapers".
 
 * Cosine similarity
 
+### 1.3.4 Using Co-occurrence matrix for several items
+
+<p align="center">
+  <img src="https://i.imgur.com/j4BNvzO.png" />
+</p>
+
 
 
