@@ -74,3 +74,9 @@ Term frequency vector in downweighted based on inverse document frequency
 * Recommend Products
 * Recommend Friends
 * Drug repurposing
+
+### 1.3.1 Co-occurrence matrix
+
+<p align="center">
+  <img src="https://i.imgur.com/uooUkyY.png" />
+</p>
