@@ -68,3 +68,9 @@ Term frequency vector in downweighted based on inverse document frequency
 0. Initialize cluster centers
 1. Assign observations to closest cluster center
 2. Revise cluster centers as mean of assigned observations
+
+## 1.3 Recommender Systems
+
+* Recommend Products
+* Recommend Friends
+* Drug repurposing
