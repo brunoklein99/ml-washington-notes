@@ -87,3 +87,16 @@ User someone purchased "diapers".
 
 1. Look at "diapers" row of matrix
 2. Recommend other items with largest counts
+
+### 1.3.3 Normalizing co-occurrence matrices and leveraging purchase histories
+
+* Jaccard similarity (similar to Tf-Idf)
+
+<p align="center">
+  <img src="https://i.imgur.com/RaDIBTz.png" />
+</p>
+
+* Cosine similarity
+
+
+
