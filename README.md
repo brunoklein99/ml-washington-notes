@@ -80,3 +80,10 @@ Term frequency vector in downweighted based on inverse document frequency
 <p align="center">
   <img src="https://i.imgur.com/uooUkyY.png" />
 </p>
+
+### 1.3.2 Making recommendations using co-occurences 
+
+User someone purchased "diapers".
+
+1. Look at "diapers" row of matrix
+2. Recommend other items with largest counts
