@@ -113,3 +113,12 @@ User someone purchased "diapers".
 ### 1.3.6 Recommendations from known user/item features
 
 * Each movie and user have a vector on which each element describer their likes or characteristics (action, romance, drama). Can take similarity between vectors
+
+### 1.3.7 Combining features and discovered topics
+
+* Discovered topics from matrix factorization capture **group of users** who behave similarly 
+1. Women from Seattle who teach and have a baby
+
+* Combine to mitigate cold-start problem
+1. Ratings for a new user from features only
+2. As more information about user is discovered, matrix factorization topics become more relevant
