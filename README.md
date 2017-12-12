@@ -110,3 +110,6 @@ User someone purchased "diapers".
   <img src="https://i.imgur.com/jHayZss.png" />
 </p>
 
+### 1.3.6 Recommendations from known user/item features
+
+* Each movie and user have a vector on which each element describer their likes or characteristics (action, romance, drama). Can take similarity between vectors
